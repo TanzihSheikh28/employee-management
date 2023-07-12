@@ -10,8 +10,8 @@ export default function EmployeeForm() {
                     <form>
                         <div class="grid grid-cols-1 gap-6 mt-4 sm:grid-cols-2">
                             <div>
-                                <label class="flex text-13 text-navy-blue font-medium dark:text-gray-200" for="username">First Name*</label>
-                                <input id="username" type="text" placeholder="Enter your name" class="block w-full px-4 py-2 mt-2 text-gray-700 bg-input-field border border-transparent rounded-16 placeholder:text-grey-03" />
+                                <label class="flex text-13 text-navy-blue font-medium dark:text-gray-200" for="first_name">First Name*</label>
+                                <input id="first_name" type="text" placeholder="Enter your first name" class="block w-full px-4 py-2 mt-2 text-gray-700 bg-input-field border border-transparent rounded-16 placeholder:text-grey-03" />
                             </div>
 
                             <div>
